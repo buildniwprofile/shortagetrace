@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "ShortageTrace: a longitudinal panel of national drug shortage episodes, 2015-2025"
+version: "0.1.0"
+date-released: "2026-09-01"
+authors:
+  - family-names: "Nwachukwu"
+    given-names: "A."
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Independent Researcher"
+license: CC-BY-4.0
+repository-code: "https://github.com/buildniwprofile/shortagetrace"
+keywords:
+  - drug shortages
+  - pharmacovigilance
+  - open data
