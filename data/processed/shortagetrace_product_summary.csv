@@ -1,0 +1,881 @@
+product_id,therapeutic_class,n_episodes,total_days_short,longest_episode_days,ever_open_at_cutoff
+P00001,CNS / analgesia,4,203,83,0
+P00002,Anaesthesia,1,145,145,0
+P00003,Anti-infective,1,77,77,0
+P00004,Oncology,2,221,133,0
+P00005,Anaesthesia,2,1270,1122,0
+P00006,Electrolytes / fluids,1,44,44,0
+P00007,Respiratory,2,174,113,0
+P00008,Respiratory,1,157,157,0
+P00009,Ophthalmic,1,77,77,0
+P00010,Cardiovascular,2,75,58,0
+P00011,Anaesthesia,2,151,96,0
+P00012,Electrolytes / fluids,1,702,702,0
+P00013,Anti-infective,1,133,133,0
+P00014,Cardiovascular,1,196,196,0
+P00015,Oncology,1,140,140,0
+P00016,Respiratory,1,114,114,0
+P00017,Cardiovascular,2,175,91,0
+P00018,Electrolytes / fluids,3,180,121,0
+P00019,Anti-infective,2,252,201,0
+P00020,Electrolytes / fluids,1,81,81,0
+P00021,CNS / analgesia,1,40,40,0
+P00022,Endocrine,1,83,83,0
+P00023,Ophthalmic,1,113,113,0
+P00024,Cardiovascular,1,34,34,0
+P00025,Ophthalmic,2,121,77,0
+P00026,Immunologic,1,28,28,0
+P00027,Electrolytes / fluids,2,110,67,0
+P00028,Cardiovascular,2,241,171,0
+P00029,Anaesthesia,3,485,240,0
+P00030,Ophthalmic,1,32,32,0
+P00031,Anaesthesia,2,316,253,0
+P00032,Electrolytes / fluids,1,234,234,0
+P00033,Oncology,3,644,342,0
+P00034,Cardiovascular,1,80,80,0
+P00035,Cardiovascular,1,90,90,0
+P00036,CNS / analgesia,2,92,46,0
+P00037,Cardiovascular,1,22,22,0
+P00038,Endocrine,5,531,260,0
+P00039,CNS / analgesia,2,309,194,0
+P00040,Ophthalmic,1,58,58,0
+P00041,Anti-infective,2,476,312,0
+P00042,Respiratory,3,162,68,0
+P00043,Endocrine,1,241,241,0
+P00044,Anaesthesia,2,564,544,0
+P00045,Cardiovascular,1,124,124,0
+P00046,Electrolytes / fluids,1,35,35,0
+P00047,Anti-infective,2,91,49,0
+P00048,Oncology,2,248,127,0
+P00049,Immunologic,4,180,57,0
+P00050,Respiratory,4,171,72,0
+P00051,Electrolytes / fluids,1,269,269,0
+P00052,Anti-infective,2,146,76,0
+P00053,Oncology,1,86,86,0
+P00054,Respiratory,1,101,101,0
+P00055,Electrolytes / fluids,1,212,212,0
+P00056,Cardiovascular,1,54,54,0
+P00057,Electrolytes / fluids,1,31,31,0
+P00058,Cardiovascular,2,156,125,0
+P00059,CNS / analgesia,1,627,627,0
+P00060,Immunologic,2,229,209,0
+P00061,Oncology,2,220,178,0
+P00062,Cardiovascular,1,90,90,0
+P00063,Endocrine,1,84,84,0
+P00064,CNS / analgesia,1,80,80,0
+P00065,Oncology,2,306,191,0
+P00066,Anti-infective,2,209,143,0
+P00067,CNS / analgesia,3,108,72,0
+P00068,Oncology,1,71,71,0
+P00069,CNS / analgesia,1,268,268,0
+P00070,Respiratory,1,112,112,0
+P00071,Endocrine,2,91,71,0
+P00072,Electrolytes / fluids,1,67,67,0
+P00073,Oncology,3,624,493,0
+P00074,Endocrine,2,386,237,0
+P00075,Oncology,1,467,467,0
+P00076,Respiratory,1,62,62,0
+P00077,CNS / analgesia,5,302,90,0
+P00078,Respiratory,4,336,101,0
+P00079,Oncology,1,59,59,0
+P00080,Anti-infective,2,177,121,0
+P00081,Electrolytes / fluids,1,577,577,0
+P00082,Electrolytes / fluids,1,446,446,0
+P00083,CNS / analgesia,2,153,83,0
+P00084,Respiratory,3,228,185,0
+P00085,Anaesthesia,4,326,194,0
+P00086,Cardiovascular,3,748,583,0
+P00087,Electrolytes / fluids,3,286,165,0
+P00088,Anti-infective,1,370,370,0
+P00089,Oncology,1,104,104,0
+P00090,Cardiovascular,3,303,174,0
+P00091,Ophthalmic,1,58,58,0
+P00092,CNS / analgesia,1,369,369,0
+P00093,Respiratory,1,130,130,0
+P00094,Respiratory,2,135,77,0
+P00095,Oncology,2,168,123,0
+P00096,CNS / analgesia,1,48,48,0
+P00097,Electrolytes / fluids,1,48,48,0
+P00098,CNS / analgesia,3,529,287,0
+P00099,Anti-infective,2,134,97,0
+P00100,Anaesthesia,3,422,256,0
+P00101,Electrolytes / fluids,2,204,109,0
+P00102,Cardiovascular,1,41,41,0
+P00103,Cardiovascular,3,216,119,0
+P00104,Anti-infective,2,88,68,0
+P00105,Electrolytes / fluids,1,114,114,0
+P00106,Anaesthesia,1,34,34,0
+P00107,Cardiovascular,1,106,106,0
+P00108,Cardiovascular,2,244,146,0
+P00109,Electrolytes / fluids,2,190,100,0
+P00110,Anti-infective,2,123,81,0
+P00111,Ophthalmic,1,27,27,0
+P00112,Endocrine,1,189,189,0
+P00113,Electrolytes / fluids,4,609,258,0
+P00114,CNS / analgesia,2,237,154,0
+P00115,CNS / analgesia,3,308,186,0
+P00116,Electrolytes / fluids,2,158,128,0
+P00117,Respiratory,4,362,138,0
+P00118,Respiratory,1,93,93,0
+P00119,Oncology,2,753,453,0
+P00120,Anti-infective,1,26,26,0
+P00121,Anaesthesia,1,78,78,0
+P00122,Cardiovascular,2,240,135,0
+P00123,Cardiovascular,1,88,88,0
+P00124,CNS / analgesia,4,540,170,0
+P00125,CNS / analgesia,2,133,86,0
+P00126,Immunologic,3,126,52,0
+P00127,Electrolytes / fluids,1,90,90,0
+P00128,Cardiovascular,1,60,60,0
+P00129,Anaesthesia,2,164,97,0
+P00130,Respiratory,1,97,97,0
+P00131,CNS / analgesia,2,193,155,0
+P00132,Endocrine,1,88,88,0
+P00133,Anti-infective,3,110,53,0
+P00134,Electrolytes / fluids,2,96,62,0
+P00135,Oncology,1,70,70,0
+P00136,Anti-infective,1,44,44,0
+P00137,Anaesthesia,2,218,125,0
+P00138,Electrolytes / fluids,1,44,44,0
+P00139,Cardiovascular,2,193,157,0
+P00140,Anti-infective,2,224,204,0
+P00141,Cardiovascular,4,606,216,0
+P00142,Anti-infective,4,593,347,0
+P00143,Anti-infective,3,284,149,0
+P00144,Anti-infective,3,419,269,0
+P00145,CNS / analgesia,2,129,107,0
+P00146,Anti-infective,2,163,112,0
+P00147,CNS / analgesia,3,123,67,0
+P00148,Cardiovascular,5,351,149,0
+P00149,Oncology,2,209,140,0
+P00150,Electrolytes / fluids,1,140,140,0
+P00151,Anaesthesia,1,412,412,0
+P00152,Endocrine,2,325,196,0
+P00153,Electrolytes / fluids,2,105,69,0
+P00154,Immunologic,1,45,45,0
+P00155,Anti-infective,3,267,113,0
+P00156,Endocrine,3,237,114,0
+P00157,Cardiovascular,2,203,156,0
+P00158,CNS / analgesia,1,79,79,0
+P00159,Anti-infective,2,125,78,0
+P00160,Respiratory,1,73,73,0
+P00161,Anti-infective,5,541,294,0
+P00162,Oncology,1,65,65,0
+P00163,Cardiovascular,3,244,134,0
+P00164,Electrolytes / fluids,1,169,169,0
+P00165,Cardiovascular,3,223,125,0
+P00166,Cardiovascular,1,52,52,0
+P00167,Anaesthesia,1,61,61,0
+P00168,Cardiovascular,1,165,165,0
+P00169,CNS / analgesia,4,618,289,0
+P00170,Cardiovascular,1,114,114,0
+P00171,Cardiovascular,1,219,219,0
+P00172,Immunologic,3,232,161,0
+P00173,Cardiovascular,5,588,180,0
+P00174,Electrolytes / fluids,2,374,343,0
+P00175,Anti-infective,1,162,162,0
+P00176,Oncology,2,453,238,0
+P00177,Endocrine,1,38,38,0
+P00178,CNS / analgesia,3,244,107,0
+P00179,Endocrine,2,147,79,0
+P00180,Ophthalmic,1,85,85,0
+P00181,Oncology,1,205,205,0
+P00182,Oncology,3,1426,979,0
+P00183,Cardiovascular,2,104,63,0
+P00184,Oncology,2,328,201,0
+P00185,Anti-infective,2,63,44,0
+P00186,Cardiovascular,1,63,63,0
+P00187,CNS / analgesia,3,451,298,0
+P00188,Anaesthesia,1,107,107,0
+P00189,Cardiovascular,2,826,747,0
+P00190,Cardiovascular,1,86,86,0
+P00191,Anaesthesia,1,133,133,0
+P00192,Anaesthesia,2,489,293,0
+P00193,Anti-infective,4,244,122,0
+P00194,Anti-infective,1,47,47,0
+P00195,Anti-infective,1,40,40,0
+P00196,Anti-infective,2,98,58,0
+P00197,Cardiovascular,5,507,136,0
+P00198,Electrolytes / fluids,2,138,119,0
+P00199,Oncology,2,280,261,0
+P00200,Anaesthesia,4,618,269,0
+P00201,Anaesthesia,3,178,83,0
+P00202,Anaesthesia,2,81,55,0
+P00203,Cardiovascular,1,44,44,0
+P00204,Oncology,2,224,159,0
+P00205,Electrolytes / fluids,2,214,119,0
+P00206,Respiratory,1,59,59,0
+P00207,Immunologic,3,303,186,0
+P00208,Anaesthesia,1,73,73,0
+P00209,Endocrine,3,110,52,0
+P00210,Respiratory,1,23,23,0
+P00211,Endocrine,1,85,85,0
+P00212,Electrolytes / fluids,2,612,495,0
+P00213,Endocrine,1,11,11,0
+P00214,Anaesthesia,2,195,164,0
+P00215,Anti-infective,2,41,22,0
+P00216,Endocrine,2,262,198,0
+P00217,Anti-infective,2,303,246,0
+P00218,Immunologic,1,52,52,0
+P00219,Electrolytes / fluids,4,487,156,0
+P00220,CNS / analgesia,2,130,85,0
+P00221,CNS / analgesia,2,119,70,0
+P00222,Cardiovascular,2,199,118,0
+P00223,CNS / analgesia,1,28,28,0
+P00224,Cardiovascular,1,52,52,0
+P00225,Oncology,4,712,280,0
+P00226,Anaesthesia,4,421,168,0
+P00227,Immunologic,1,58,58,0
+P00228,Ophthalmic,4,509,280,0
+P00229,Electrolytes / fluids,4,287,110,0
+P00230,Anaesthesia,2,649,524,0
+P00231,Anti-infective,2,118,75,0
+P00232,Electrolytes / fluids,1,206,206,0
+P00233,Anaesthesia,4,344,147,0
+P00234,Anti-infective,2,308,245,0
+P00235,Cardiovascular,3,285,132,0
+P00236,Cardiovascular,2,156,85,0
+P00237,Endocrine,1,356,356,0
+P00238,Endocrine,5,285,162,0
+P00239,Cardiovascular,2,153,90,0
+P00240,Cardiovascular,1,36,36,0
+P00241,Endocrine,1,35,35,0
+P00242,Electrolytes / fluids,2,121,89,0
+P00243,Electrolytes / fluids,1,103,103,0
+P00244,Endocrine,2,303,175,0
+P00245,Ophthalmic,1,26,26,0
+P00246,Oncology,1,220,220,0
+P00247,Immunologic,4,524,296,0
+P00248,Immunologic,2,276,219,0
+P00249,Cardiovascular,3,594,298,0
+P00250,CNS / analgesia,2,131,93,0
+P00251,Cardiovascular,2,168,132,0
+P00252,Cardiovascular,1,64,64,0
+P00253,Electrolytes / fluids,1,165,165,0
+P00254,Cardiovascular,1,124,124,0
+P00255,Oncology,1,24,24,0
+P00256,Endocrine,1,40,40,0
+P00257,Endocrine,3,393,318,0
+P00258,Anti-infective,2,77,57,0
+P00259,CNS / analgesia,1,594,594,0
+P00260,Endocrine,4,233,110,0
+P00261,Anaesthesia,1,50,50,0
+P00262,CNS / analgesia,4,335,142,0
+P00263,Oncology,3,365,185,0
+P00264,CNS / analgesia,1,48,48,0
+P00265,Cardiovascular,4,179,60,0
+P00266,Oncology,1,456,456,0
+P00267,Endocrine,1,20,20,0
+P00268,Endocrine,2,45,26,0
+P00269,Anaesthesia,2,216,109,0
+P00270,Anaesthesia,2,311,243,0
+P00271,Respiratory,1,92,92,0
+P00272,Anti-infective,1,124,124,0
+P00273,Anaesthesia,2,417,345,0
+P00274,Electrolytes / fluids,2,609,427,0
+P00275,Electrolytes / fluids,1,22,22,0
+P00276,Ophthalmic,3,377,278,0
+P00277,Oncology,2,615,558,0
+P00278,Cardiovascular,2,101,90,0
+P00279,Anti-infective,2,170,114,0
+P00280,Anti-infective,1,87,87,0
+P00281,Cardiovascular,4,733,324,0
+P00282,Endocrine,2,226,169,0
+P00283,Ophthalmic,1,41,41,0
+P00284,Respiratory,2,459,411,0
+P00285,Cardiovascular,1,90,90,0
+P00286,Ophthalmic,4,848,646,0
+P00287,Anaesthesia,3,426,276,0
+P00288,Anti-infective,1,217,217,0
+P00289,Ophthalmic,2,119,60,0
+P00290,Electrolytes / fluids,4,462,207,0
+P00291,Anaesthesia,1,288,288,0
+P00292,Cardiovascular,2,146,117,0
+P00293,Electrolytes / fluids,3,1008,514,0
+P00294,CNS / analgesia,4,219,92,0
+P00295,Cardiovascular,3,296,124,0
+P00296,Anti-infective,1,33,33,0
+P00297,Anaesthesia,1,129,129,0
+P00298,Electrolytes / fluids,3,498,278,0
+P00299,Anti-infective,2,487,255,0
+P00300,Cardiovascular,1,64,64,0
+P00301,Respiratory,3,403,174,0
+P00302,Oncology,5,796,326,0
+P00303,Anti-infective,2,250,157,0
+P00304,Cardiovascular,5,885,301,0
+P00305,Endocrine,2,204,182,0
+P00306,Electrolytes / fluids,1,63,63,0
+P00307,Cardiovascular,1,142,142,0
+P00308,Anaesthesia,1,177,177,0
+P00309,CNS / analgesia,2,153,103,0
+P00310,Anti-infective,1,64,64,0
+P00311,Oncology,2,189,158,0
+P00312,Anaesthesia,1,29,29,0
+P00313,CNS / analgesia,1,50,50,0
+P00314,Anaesthesia,1,62,62,0
+P00315,CNS / analgesia,1,55,55,0
+P00316,Respiratory,3,319,195,0
+P00317,Anti-infective,2,68,43,0
+P00318,Endocrine,1,92,92,0
+P00319,Electrolytes / fluids,2,288,179,0
+P00320,Anaesthesia,1,42,42,0
+P00321,Anti-infective,2,174,87,0
+P00322,Anaesthesia,2,151,98,0
+P00323,Anaesthesia,2,170,111,0
+P00324,Anti-infective,2,209,158,0
+P00325,Endocrine,3,188,67,0
+P00326,Electrolytes / fluids,1,125,125,0
+P00327,CNS / analgesia,1,51,51,0
+P00328,Electrolytes / fluids,2,561,343,0
+P00329,CNS / analgesia,1,243,243,0
+P00330,Cardiovascular,2,438,352,0
+P00331,Oncology,3,250,135,0
+P00332,Oncology,1,155,155,0
+P00333,CNS / analgesia,2,104,59,0
+P00334,Electrolytes / fluids,2,70,44,0
+P00335,Ophthalmic,1,110,110,0
+P00336,Anti-infective,3,424,252,0
+P00337,Electrolytes / fluids,2,222,113,0
+P00338,Anti-infective,4,173,79,0
+P00339,Anaesthesia,1,62,62,0
+P00340,Anti-infective,1,28,28,0
+P00341,Ophthalmic,4,586,335,0
+P00342,Anti-infective,1,150,150,0
+P00343,Oncology,2,332,278,0
+P00344,Oncology,1,131,131,0
+P00345,Electrolytes / fluids,4,549,206,0
+P00346,CNS / analgesia,3,318,135,0
+P00347,Immunologic,2,217,178,0
+P00348,Ophthalmic,1,34,34,0
+P00349,Immunologic,1,71,71,0
+P00350,Respiratory,1,32,32,0
+P00351,Electrolytes / fluids,1,63,63,0
+P00352,Electrolytes / fluids,1,195,195,0
+P00353,Cardiovascular,3,323,206,0
+P00354,Oncology,2,148,85,0
+P00355,Anti-infective,2,215,133,0
+P00356,Immunologic,4,535,216,0
+P00357,Oncology,3,391,169,0
+P00358,Cardiovascular,2,327,187,0
+P00359,CNS / analgesia,2,149,124,0
+P00360,Respiratory,1,27,27,0
+P00361,Immunologic,1,69,69,0
+P00362,Anti-infective,3,365,149,0
+P00363,Cardiovascular,2,198,125,0
+P00364,Oncology,1,84,84,0
+P00365,CNS / analgesia,2,160,90,0
+P00366,Oncology,2,142,111,0
+P00367,Anti-infective,1,54,54,0
+P00368,Anti-infective,1,168,168,0
+P00369,Cardiovascular,1,195,195,0
+P00370,Anaesthesia,3,376,168,0
+P00371,Endocrine,1,75,75,0
+P00372,Anti-infective,1,22,22,0
+P00373,Oncology,1,116,116,0
+P00374,Cardiovascular,1,216,216,0
+P00375,CNS / analgesia,4,465,232,0
+P00376,Anti-infective,1,175,175,0
+P00377,Electrolytes / fluids,1,110,110,0
+P00378,Immunologic,1,25,25,0
+P00379,Ophthalmic,1,33,33,0
+P00380,Cardiovascular,1,69,69,0
+P00381,Respiratory,1,141,141,0
+P00382,Anti-infective,1,71,71,0
+P00383,Cardiovascular,1,104,104,0
+P00384,CNS / analgesia,2,453,258,0
+P00385,Oncology,2,302,182,0
+P00386,Respiratory,1,27,27,0
+P00387,Anaesthesia,1,45,45,0
+P00388,Respiratory,5,541,323,0
+P00389,Anti-infective,4,213,81,0
+P00390,Anaesthesia,1,29,29,0
+P00391,Anti-infective,3,158,75,0
+P00392,Respiratory,1,215,215,0
+P00393,Endocrine,1,299,299,0
+P00394,Anti-infective,2,320,166,0
+P00395,Respiratory,1,64,64,0
+P00396,Oncology,1,26,26,0
+P00397,Cardiovascular,1,189,189,0
+P00398,Anaesthesia,1,70,70,0
+P00399,Immunologic,1,95,95,0
+P00400,Oncology,2,325,254,0
+P00401,Respiratory,4,408,183,0
+P00402,Ophthalmic,3,208,109,0
+P00403,Oncology,1,259,259,0
+P00404,Electrolytes / fluids,1,97,97,0
+P00405,Oncology,4,579,254,0
+P00406,Cardiovascular,1,75,75,0
+P00407,Oncology,2,81,45,0
+P00408,Endocrine,1,17,17,0
+P00409,Ophthalmic,4,273,141,0
+P00410,Anaesthesia,2,1062,1008,0
+P00411,Respiratory,5,408,276,0
+P00412,Anti-infective,1,210,210,0
+P00413,CNS / analgesia,1,52,52,0
+P00414,Electrolytes / fluids,1,70,70,0
+P00415,Cardiovascular,1,56,56,0
+P00416,Endocrine,3,228,111,0
+P00417,Cardiovascular,2,119,78,0
+P00418,Anaesthesia,1,153,153,0
+P00419,Anaesthesia,3,496,251,0
+P00420,Anti-infective,2,272,194,0
+P00421,Electrolytes / fluids,2,467,356,0
+P00422,Cardiovascular,1,312,312,0
+P00423,Electrolytes / fluids,2,135,77,0
+P00424,Ophthalmic,4,528,369,0
+P00425,Cardiovascular,2,428,387,0
+P00426,CNS / analgesia,1,72,72,0
+P00427,CNS / analgesia,1,292,292,0
+P00428,Anaesthesia,2,155,93,0
+P00429,Immunologic,1,37,37,0
+P00430,Anaesthesia,1,451,451,0
+P00431,Anti-infective,3,350,149,0
+P00432,Anaesthesia,4,487,239,0
+P00433,Anti-infective,5,281,74,0
+P00434,Ophthalmic,2,121,71,0
+P00435,Cardiovascular,1,37,37,0
+P00436,Immunologic,1,31,31,0
+P00437,Cardiovascular,1,40,40,0
+P00438,CNS / analgesia,1,47,47,0
+P00439,Endocrine,2,58,31,0
+P00440,Oncology,1,196,196,0
+P00441,Electrolytes / fluids,1,63,63,0
+P00442,Anaesthesia,4,421,125,0
+P00443,Immunologic,4,339,171,0
+P00444,Electrolytes / fluids,5,355,113,0
+P00445,Cardiovascular,1,61,61,0
+P00446,Electrolytes / fluids,1,121,121,0
+P00447,Anti-infective,1,34,34,0
+P00448,Electrolytes / fluids,1,351,351,0
+P00449,Electrolytes / fluids,1,50,50,0
+P00450,Oncology,2,234,120,0
+P00451,Anti-infective,4,219,103,0
+P00452,Cardiovascular,2,235,221,0
+P00453,Anaesthesia,1,59,59,0
+P00454,Immunologic,4,508,278,0
+P00455,Cardiovascular,1,557,557,0
+P00456,Cardiovascular,1,85,85,0
+P00457,Anaesthesia,2,490,398,0
+P00458,Electrolytes / fluids,1,53,53,0
+P00459,Respiratory,1,172,172,0
+P00460,Respiratory,4,393,146,0
+P00461,CNS / analgesia,1,97,97,0
+P00462,Cardiovascular,1,137,137,0
+P00463,Electrolytes / fluids,2,127,100,0
+P00464,CNS / analgesia,3,174,75,0
+P00465,Ophthalmic,1,75,75,0
+P00466,Respiratory,1,65,65,0
+P00467,Anaesthesia,3,713,478,0
+P00468,CNS / analgesia,2,58,34,0
+P00469,Cardiovascular,2,329,292,0
+P00470,Oncology,2,139,79,0
+P00471,Anti-infective,1,20,20,0
+P00472,Anti-infective,2,166,117,0
+P00473,Anaesthesia,1,79,79,0
+P00474,Oncology,5,385,153,0
+P00475,Anti-infective,1,37,37,0
+P00476,Endocrine,1,214,214,0
+P00477,Anti-infective,1,83,83,0
+P00478,Electrolytes / fluids,1,71,71,0
+P00479,Anaesthesia,1,41,41,0
+P00480,Anti-infective,1,27,27,0
+P00481,CNS / analgesia,2,232,150,0
+P00482,Cardiovascular,2,230,144,0
+P00483,Electrolytes / fluids,1,49,49,0
+P00484,Oncology,2,455,338,0
+P00485,Cardiovascular,5,299,106,0
+P00486,CNS / analgesia,1,29,29,0
+P00487,CNS / analgesia,1,40,40,0
+P00488,Oncology,1,38,38,0
+P00489,Cardiovascular,1,114,114,0
+P00490,Oncology,2,302,233,0
+P00491,Endocrine,1,145,145,0
+P00492,CNS / analgesia,2,244,171,0
+P00493,Anti-infective,4,279,169,0
+P00494,Anti-infective,5,753,405,0
+P00495,Oncology,2,216,109,0
+P00496,CNS / analgesia,1,105,105,0
+P00497,Respiratory,1,115,115,0
+P00498,Oncology,1,293,293,0
+P00499,Cardiovascular,1,36,36,0
+P00500,Anti-infective,1,118,118,0
+P00501,Cardiovascular,3,197,102,0
+P00502,Electrolytes / fluids,3,363,140,0
+P00503,Electrolytes / fluids,2,291,182,0
+P00504,Anti-infective,1,202,202,0
+P00505,CNS / analgesia,4,495,181,0
+P00506,Oncology,2,565,531,0
+P00507,Immunologic,1,84,84,0
+P00508,Electrolytes / fluids,2,215,138,0
+P00509,Respiratory,3,362,190,0
+P00510,Endocrine,1,94,94,0
+P00511,Respiratory,3,361,295,0
+P00512,CNS / analgesia,1,47,47,0
+P00513,Oncology,1,37,37,0
+P00514,Oncology,2,72,43,0
+P00515,Anaesthesia,1,63,63,0
+P00516,Cardiovascular,1,191,191,0
+P00517,Cardiovascular,3,342,219,0
+P00518,Anti-infective,1,87,87,0
+P00519,Anti-infective,4,262,167,0
+P00520,CNS / analgesia,1,53,53,0
+P00521,Endocrine,4,251,113,0
+P00522,CNS / analgesia,1,77,77,0
+P00523,CNS / analgesia,1,41,41,0
+P00524,CNS / analgesia,1,118,118,0
+P00525,Respiratory,2,116,69,0
+P00526,Electrolytes / fluids,1,110,110,0
+P00527,Electrolytes / fluids,2,210,163,0
+P00528,Cardiovascular,2,458,386,0
+P00529,Anti-infective,2,77,58,0
+P00530,Oncology,3,427,237,0
+P00531,Endocrine,1,35,35,0
+P00532,Electrolytes / fluids,1,45,45,0
+P00533,Anaesthesia,2,139,98,0
+P00534,Anaesthesia,1,26,26,0
+P00535,Cardiovascular,1,59,59,0
+P00536,Cardiovascular,1,46,46,0
+P00537,Endocrine,2,69,47,0
+P00538,Anaesthesia,2,309,231,0
+P00539,Anti-infective,2,277,152,0
+P00540,Anaesthesia,1,345,345,0
+P00541,Anaesthesia,1,404,404,0
+P00542,Respiratory,5,469,154,0
+P00543,Oncology,1,79,79,0
+P00544,Endocrine,2,102,62,0
+P00545,Oncology,2,223,139,0
+P00546,Anaesthesia,1,41,41,0
+P00547,Anaesthesia,3,470,214,0
+P00548,CNS / analgesia,2,262,211,0
+P00549,Cardiovascular,1,25,25,0
+P00550,Anti-infective,2,165,126,0
+P00551,Anti-infective,1,26,26,0
+P00552,Oncology,1,95,95,0
+P00553,Cardiovascular,1,42,42,0
+P00554,CNS / analgesia,3,341,122,0
+P00555,Anaesthesia,1,108,108,0
+P00556,Electrolytes / fluids,2,204,103,0
+P00557,CNS / analgesia,1,212,212,0
+P00558,Anti-infective,1,23,23,0
+P00559,Anti-infective,1,25,25,0
+P00560,Cardiovascular,5,367,123,0
+P00561,Anti-infective,1,89,89,0
+P00562,Respiratory,1,65,65,0
+P00563,Anaesthesia,1,74,74,0
+P00564,CNS / analgesia,4,283,159,0
+P00565,Immunologic,1,41,41,0
+P00566,Endocrine,1,47,47,0
+P00567,Electrolytes / fluids,2,105,79,0
+P00568,Anti-infective,1,96,96,0
+P00569,Cardiovascular,2,118,98,0
+P00570,Cardiovascular,2,150,96,0
+P00571,Anaesthesia,2,154,98,0
+P00572,Anaesthesia,1,31,31,0
+P00573,Endocrine,2,217,182,0
+P00574,Oncology,4,670,248,0
+P00575,Oncology,3,125,75,0
+P00576,Respiratory,1,65,65,0
+P00577,Anaesthesia,1,238,238,0
+P00578,Cardiovascular,2,182,131,0
+P00579,Anti-infective,1,42,42,0
+P00580,Electrolytes / fluids,1,117,117,0
+P00581,Anaesthesia,4,401,112,0
+P00582,Anaesthesia,3,701,528,0
+P00583,Immunologic,1,446,446,0
+P00584,Cardiovascular,2,62,47,0
+P00585,Oncology,2,225,128,0
+P00586,CNS / analgesia,1,60,60,0
+P00587,Oncology,2,217,125,0
+P00588,Anti-infective,3,354,203,0
+P00589,Cardiovascular,2,265,152,0
+P00590,Endocrine,1,20,20,0
+P00591,Cardiovascular,4,293,129,0
+P00592,Endocrine,3,323,159,0
+P00593,CNS / analgesia,1,184,184,0
+P00594,Cardiovascular,2,149,85,0
+P00595,Oncology,5,740,325,0
+P00596,CNS / analgesia,1,20,20,0
+P00597,Anti-infective,1,55,55,0
+P00598,Endocrine,1,98,98,0
+P00599,Ophthalmic,4,301,132,0
+P00600,Ophthalmic,5,196,73,0
+P00601,Anaesthesia,1,291,291,0
+P00602,CNS / analgesia,1,198,198,0
+P00603,Anaesthesia,4,260,87,0
+P00604,Anaesthesia,5,436,153,0
+P00605,Cardiovascular,1,124,124,0
+P00606,Oncology,1,952,952,0
+P00607,Anaesthesia,1,149,149,0
+P00608,Anaesthesia,4,230,96,0
+P00609,Oncology,2,292,242,0
+P00610,Endocrine,2,126,87,0
+P00611,CNS / analgesia,1,50,50,0
+P00612,Electrolytes / fluids,1,123,123,0
+P00613,Ophthalmic,4,152,61,0
+P00614,Anaesthesia,1,55,55,0
+P00615,Cardiovascular,2,187,173,0
+P00616,Immunologic,3,187,91,0
+P00617,Endocrine,3,194,87,0
+P00618,Endocrine,2,199,175,0
+P00619,Endocrine,2,228,118,0
+P00620,Electrolytes / fluids,1,44,44,0
+P00621,CNS / analgesia,3,210,164,0
+P00622,Cardiovascular,2,102,82,0
+P00623,Endocrine,1,175,175,0
+P00624,Endocrine,2,54,40,0
+P00625,Cardiovascular,3,181,101,0
+P00626,Anti-infective,5,921,538,0
+P00627,Anaesthesia,2,440,289,0
+P00628,Anaesthesia,2,286,190,0
+P00629,Endocrine,1,302,302,0
+P00630,Ophthalmic,2,171,128,0
+P00631,Anti-infective,2,328,175,0
+P00632,Electrolytes / fluids,2,240,156,0
+P00633,Electrolytes / fluids,1,199,199,0
+P00634,Anaesthesia,1,106,106,0
+P00635,Cardiovascular,1,105,105,0
+P00636,Endocrine,1,203,203,0
+P00637,Immunologic,2,111,79,0
+P00638,Ophthalmic,5,328,85,0
+P00639,Cardiovascular,1,25,25,0
+P00640,Anaesthesia,3,155,60,0
+P00641,Ophthalmic,3,109,47,0
+P00642,CNS / analgesia,3,199,145,0
+P00643,Cardiovascular,2,193,122,0
+P00644,Electrolytes / fluids,2,223,150,0
+P00645,Immunologic,3,335,233,0
+P00646,Anti-infective,1,66,66,0
+P00647,Oncology,2,340,179,0
+P00648,CNS / analgesia,2,66,42,0
+P00649,Cardiovascular,2,136,90,0
+P00650,Oncology,1,268,268,0
+P00651,Anaesthesia,4,413,131,0
+P00652,Anaesthesia,1,318,318,0
+P00653,Anti-infective,3,584,290,0
+P00654,Anti-infective,1,60,60,0
+P00655,Oncology,2,984,796,0
+P00656,Electrolytes / fluids,5,516,248,0
+P00657,Electrolytes / fluids,1,138,138,0
+P00658,Ophthalmic,1,206,206,0
+P00659,Cardiovascular,1,163,163,0
+P00660,Anti-infective,1,210,210,0
+P00661,CNS / analgesia,1,62,62,0
+P00662,Respiratory,1,42,42,0
+P00663,Endocrine,3,249,108,0
+P00664,Anti-infective,3,254,130,0
+P00665,CNS / analgesia,2,131,104,0
+P00666,Anti-infective,1,38,38,0
+P00667,Oncology,4,715,384,0
+P00668,Cardiovascular,2,90,59,0
+P00669,Endocrine,2,134,117,0
+P00670,Endocrine,4,261,103,0
+P00671,Electrolytes / fluids,1,58,58,0
+P00672,Oncology,1,335,335,0
+P00673,CNS / analgesia,3,140,92,0
+P00674,Anti-infective,4,298,112,0
+P00675,CNS / analgesia,1,54,54,0
+P00676,Anti-infective,1,26,26,0
+P00677,Endocrine,1,46,46,0
+P00678,Anti-infective,2,222,112,0
+P00679,Immunologic,1,132,132,0
+P00680,Anti-infective,1,46,46,0
+P00681,Oncology,2,367,327,0
+P00682,Anti-infective,2,241,158,0
+P00683,Anti-infective,1,43,43,0
+P00684,Ophthalmic,2,203,161,0
+P00685,CNS / analgesia,1,92,92,0
+P00686,Oncology,1,112,112,0
+P00687,Respiratory,1,57,57,0
+P00688,Electrolytes / fluids,1,45,45,0
+P00689,Cardiovascular,1,40,40,0
+P00690,CNS / analgesia,3,1021,486,0
+P00691,Respiratory,1,49,49,0
+P00692,Electrolytes / fluids,2,185,95,0
+P00693,Anti-infective,1,78,78,0
+P00694,CNS / analgesia,4,464,180,0
+P00695,Electrolytes / fluids,3,349,155,0
+P00696,Electrolytes / fluids,2,363,239,0
+P00697,Anti-infective,5,460,181,0
+P00698,Electrolytes / fluids,1,62,62,0
+P00699,Endocrine,3,390,193,0
+P00700,Anaesthesia,1,73,73,0
+P00701,Endocrine,1,41,41,0
+P00702,Anti-infective,2,81,56,0
+P00703,Anti-infective,2,198,181,0
+P00704,Oncology,1,142,142,0
+P00705,Electrolytes / fluids,2,105,65,0
+P00706,Anti-infective,1,100,100,0
+P00707,Respiratory,1,41,41,0
+P00708,Anti-infective,3,530,321,0
+P00709,Electrolytes / fluids,1,170,170,0
+P00710,Ophthalmic,2,163,135,0
+P00711,Endocrine,4,342,149,0
+P00712,CNS / analgesia,1,180,180,0
+P00713,Respiratory,1,80,80,0
+P00714,Electrolytes / fluids,1,79,79,0
+P00715,Immunologic,1,17,17,0
+P00716,Anti-infective,1,30,30,0
+P00717,Cardiovascular,1,96,96,0
+P00718,Anaesthesia,1,264,264,0
+P00719,CNS / analgesia,3,161,73,0
+P00720,Anti-infective,2,195,131,0
+P00721,Electrolytes / fluids,1,281,281,0
+P00722,Anti-infective,4,287,97,0
+P00723,Cardiovascular,2,373,330,0
+P00724,Oncology,3,791,589,0
+P00725,Oncology,1,18,18,0
+P00726,Electrolytes / fluids,1,52,52,0
+P00727,Immunologic,1,52,52,0
+P00728,Oncology,5,383,115,0
+P00729,CNS / analgesia,3,167,94,0
+P00730,CNS / analgesia,1,139,139,0
+P00731,CNS / analgesia,2,97,61,0
+P00732,Electrolytes / fluids,2,154,79,0
+P00733,Anaesthesia,2,927,514,0
+P00734,Endocrine,1,340,340,0
+P00735,Immunologic,1,178,178,0
+P00736,Anaesthesia,3,176,62,0
+P00737,Oncology,1,95,95,0
+P00738,Immunologic,2,128,67,0
+P00739,CNS / analgesia,3,248,114,0
+P00740,Electrolytes / fluids,1,89,89,0
+P00741,Endocrine,1,77,77,0
+P00742,Cardiovascular,5,401,220,0
+P00743,Ophthalmic,5,461,248,0
+P00744,Cardiovascular,1,133,133,0
+P00745,Cardiovascular,4,548,298,0
+P00746,Ophthalmic,1,21,21,0
+P00747,Oncology,2,240,150,0
+P00748,CNS / analgesia,1,82,82,0
+P00749,Ophthalmic,1,120,120,0
+P00750,Cardiovascular,1,243,243,0
+P00751,Endocrine,1,158,158,0
+P00752,Anti-infective,1,134,134,0
+P00753,Ophthalmic,3,161,78,0
+P00754,Anti-infective,3,191,118,0
+P00755,Endocrine,1,15,15,0
+P00756,Oncology,4,873,523,0
+P00757,Respiratory,2,275,169,0
+P00758,Ophthalmic,2,269,164,0
+P00759,Immunologic,2,118,71,0
+P00760,Cardiovascular,5,488,177,0
+P00761,Anti-infective,3,455,392,0
+P00762,CNS / analgesia,3,148,73,0
+P00763,Endocrine,3,248,135,0
+P00764,Anti-infective,1,50,50,0
+P00765,Cardiovascular,1,83,83,0
+P00766,Immunologic,2,304,245,0
+P00767,Respiratory,1,80,80,0
+P00768,Ophthalmic,1,184,184,0
+P00769,Ophthalmic,1,232,232,0
+P00770,Anti-infective,2,253,204,0
+P00771,Endocrine,2,270,141,0
+P00772,CNS / analgesia,2,430,392,0
+P00773,Oncology,1,42,42,0
+P00774,CNS / analgesia,1,42,42,0
+P00775,Oncology,2,129,71,0
+P00776,Anti-infective,4,370,132,0
+P00777,Electrolytes / fluids,1,57,57,0
+P00778,Endocrine,4,884,468,0
+P00779,Anaesthesia,1,96,96,0
+P00780,CNS / analgesia,3,321,250,0
+P00781,Anaesthesia,2,163,88,0
+P00782,Cardiovascular,1,127,127,0
+P00783,Anaesthesia,1,91,91,0
+P00784,Electrolytes / fluids,4,571,224,0
+P00785,Immunologic,2,271,149,0
+P00786,Oncology,1,108,108,0
+P00787,Anaesthesia,1,135,135,0
+P00788,Cardiovascular,3,445,209,0
+P00789,Anti-infective,1,28,28,0
+P00790,Endocrine,2,108,72,0
+P00791,Electrolytes / fluids,1,188,188,0
+P00792,Endocrine,2,356,202,0
+P00793,CNS / analgesia,1,79,79,0
+P00794,Endocrine,1,24,24,0
+P00795,Anti-infective,1,253,253,0
+P00796,Oncology,2,375,231,0
+P00797,Oncology,1,78,78,0
+P00798,CNS / analgesia,4,276,111,0
+P00799,Electrolytes / fluids,1,53,53,0
+P00800,Oncology,2,411,298,0
+P00801,Anti-infective,1,69,69,0
+P00802,Anti-infective,4,287,115,0
+P00803,Cardiovascular,4,330,121,0
+P00804,Electrolytes / fluids,1,47,47,0
+P00805,Cardiovascular,2,353,309,0
+P00806,Cardiovascular,1,79,79,0
+P00807,Anti-infective,2,246,131,0
+P00808,Cardiovascular,2,92,54,0
+P00809,CNS / analgesia,1,52,52,0
+P00810,Cardiovascular,4,305,169,0
+P00811,Anaesthesia,3,881,533,0
+P00812,Oncology,1,40,40,0
+P00813,Ophthalmic,5,475,214,0
+P00814,Oncology,3,1016,664,0
+P00815,Ophthalmic,2,124,64,0
+P00816,Ophthalmic,2,338,231,0
+P00817,Cardiovascular,1,27,27,0
+P00818,Anaesthesia,4,486,184,0
+P00819,Respiratory,1,59,59,0
+P00820,Endocrine,1,61,61,0
+P00821,Anaesthesia,1,26,26,0
+P00822,Immunologic,2,472,364,0
+P00823,Anaesthesia,3,361,169,0
+P00824,Cardiovascular,4,291,84,0
+P00825,CNS / analgesia,1,37,37,0
+P00826,CNS / analgesia,2,146,111,0
+P00827,Anti-infective,2,89,62,0
+P00828,Anti-infective,5,270,167,1
+P00829,Anaesthesia,4,286,104,0
+P00830,Cardiovascular,1,61,61,0
+P00831,Anaesthesia,4,497,203,0
+P00832,Endocrine,1,38,38,0
+P00833,Electrolytes / fluids,1,82,82,0
+P00834,Cardiovascular,2,121,86,0
+P00835,Oncology,1,318,318,0
+P00836,Cardiovascular,1,383,383,0
+P00837,Anti-infective,2,182,99,0
+P00838,Electrolytes / fluids,2,103,54,0
+P00839,Oncology,3,229,138,0
+P00840,CNS / analgesia,2,83,45,0
+P00841,Anti-infective,2,68,39,0
+P00842,Anti-infective,4,212,91,0
+P00843,Immunologic,1,28,28,0
+P00844,Anti-infective,2,97,73,0
+P00845,Oncology,2,103,60,0
+P00846,Electrolytes / fluids,1,38,38,0
+P00847,CNS / analgesia,2,126,79,0
+P00848,CNS / analgesia,3,159,107,0
+P00849,Anti-infective,1,64,64,0
+P00850,Cardiovascular,1,90,90,0
+P00851,CNS / analgesia,2,322,286,0
+P00852,Cardiovascular,5,838,424,0
+P00853,Oncology,1,110,110,0
+P00854,Anti-infective,1,177,177,0
+P00855,Oncology,3,701,421,0
+P00856,Anaesthesia,4,464,237,0
+P00857,Anti-infective,3,378,266,0
+P00858,Electrolytes / fluids,3,758,383,0
+P00859,Ophthalmic,3,219,184,0
+P00860,Oncology,2,442,335,0
+P00861,Anti-infective,1,207,207,0
+P00862,CNS / analgesia,2,851,498,0
+P00863,Anti-infective,1,36,36,0
+P00864,Anti-infective,1,36,36,0
+P00865,Cardiovascular,1,44,44,0
+P00866,CNS / analgesia,2,94,52,0
+P00867,Cardiovascular,3,195,81,0
+P00868,Cardiovascular,1,176,176,0
+P00869,Anaesthesia,1,94,94,0
+P00870,Anti-infective,1,431,431,0
+P00871,CNS / analgesia,1,79,79,0
+P00872,Cardiovascular,2,197,152,0
+P00873,Ophthalmic,1,330,330,0
+P00874,CNS / analgesia,1,143,143,0
+P00875,Anti-infective,1,120,120,0
+P00876,Immunologic,2,174,127,0
+P00877,Electrolytes / fluids,2,249,210,0
+P00878,Oncology,4,227,115,0
+P00879,Anaesthesia,1,206,206,0
+P00880,Anaesthesia,2,253,196,0
