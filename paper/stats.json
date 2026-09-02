@@ -1,0 +1,18 @@
+{
+ "n_episodes": 1710,
+ "n_products": 880,
+ "n_closed": 1709,
+ "n_open_at_cutoff": 1,
+ "median_duration_days": 79,
+ "mean_duration_days": 113.3,
+ "p90_duration_days": 232,
+ "longest_episode_days": 1122,
+ "products_with_repeat_shortage": 472,
+ "pct_products_repeat": 53.6,
+ "episodes_over_180_days": 277,
+ "worst_class_by_long_episodes": "Oncology",
+ "worst_class_pct_over_180": 27.7,
+ "gap_rule_days": 30,
+ "window": "2015-2025",
+ "generated": "2026-09-01"
+}
