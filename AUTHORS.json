@@ -1,0 +1,15 @@
+{
+  "authors": [
+    {
+      "name": "A. Nwachukwu",
+      "family": "Nwachukwu",
+      "given": "A.",
+      "orcid": "0000-0000-0000-0000",
+      "email": "author@example.org",
+      "affiliation": "Independent Researcher, City, State, USA",
+      "roles": ["Conceptualization","Methodology","Software","Validation","Writing - original draft"],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}
