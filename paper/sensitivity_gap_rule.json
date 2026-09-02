@@ -1,0 +1,20 @@
+{
+ "14": {
+  "episodes": 1710,
+  "median_days": 79,
+  "pct_products_repeat": 53.6,
+  "episodes_over_180": 277
+ },
+ "30": {
+  "episodes": 1710,
+  "median_days": 79,
+  "pct_products_repeat": 53.6,
+  "episodes_over_180": 277
+ },
+ "60": {
+  "episodes": 1689,
+  "median_days": 80,
+  "pct_products_repeat": 52.4,
+  "episodes_over_180": 282
+ }
+}
