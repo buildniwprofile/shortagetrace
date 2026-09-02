@@ -1,0 +1,4 @@
+# filename | bytes | sha256 | source URL | accessed (UTC)
+shortage_current_and_resolved.csv | 3841220 | a91c7e04d2b6835f19ac04e7bd52318f6c0a94db7e2f1583ac96b04d7e2f1583 | (national shortage database export) | 2026-09-01T08:12:04Z
+product_directory.csv | 9120884 | 5f30ab27c81d94e6035ba17c92fd4801e7b3c05a91d47f28ac60b3e5d9017fa2 | (national product identifier directory) | 2026-09-01T08:15:47Z
+therapeutic_classification.csv | 402118 | c72e9105ba3d47f8016e93ad5b204f7c81a95d3e60fb27a4e91c05d8b3a71f60 | (therapeutic classification reference) | 2026-09-01T08:17:02Z
