@@ -1,0 +1,61 @@
+QA REPORT — ShortageTrace v0.1.0
+generated 2026-09-01 by code/03_qa.py   |  window 2015-2025  |  gap rule 30d
+
+=== 1. ROW COUNTS AT EACH STAGE ===
+  stage                                      rows       delta    note
+  01 raw shortage listings                 12,884         --
+  02 after dropping non-drug entries       11,902     -0,982     device and biologic entries out of scope
+  03 after date filter 2015-2025           11,455       -447     records outside window
+  04 collapsed to episodes (30d rule)       1,710   collapsed    880 distinct products
+  05 after join to product directory        1,710          0     all matched
+  06 final export                           1,710          0
+  ALL LOSSES ACCOUNTED FOR.
+
+=== 2. JOIN MATCH RATES ===
+  listing -> product directory     100.0%   (0 unmatched)
+  product -> ingredient            100.0%   (0 unmatched)
+  product -> therapeutic class     100.0%   (0 unmatched)
+
+=== 3. DUPLICATE CHECKS ===
+  duplicate episode_id                  0
+  overlapping episodes, same product    0    (merge rule applied before export)
+
+=== 4. RANGE AND SANITY CHECKS ===
+  column                     min      max    impossible   status
+  duration_days                7    1122             0   PASS
+  recurrence_index             0        8             0   PASS
+  days_since_prior_episode    31      897             0   PASS
+  episode_end >= start       n/a      n/a             0   PASS
+
+=== 5. MISSINGNESS ===
+  duration_days        1   open at cutoff, censored not truncated
+  episode_end          1   same rows
+  all other columns    0
+
+=== 6. NAMED SPOT CHECKS (author verifies by hand) ===
+  [ ] P00042  known product, expected 3 episodes
+  [ ] P00311  known product, expected 1 episode
+  [ ] longest episode (1122d) checked against source listing
+  [ ] shortest episode (7d) checked against source listing
+  [ ] random product, seed 7749
+
+=== 7. SENSITIVITY TO THE EPISODE-GAP RULE (verify point V1) ===
+  gap rule   episodes   median d   % products repeat   episodes >180d
+      14d       1710         79                53.6%              277
+      30d       1710         79                53.6%              277
+      60d       1689         80                52.4%              282
+
+  The median duration and the repeat share are stable across all three rules.
+  The finding does not depend on the boundary choice. Reported in the paper.
+
+=== 8. THRESHOLD COUNTS QUOTED IN DOCUMENTS ===
+  episodes                              1,710
+  products                              880
+  products with repeat shortage         472  (53.6%)
+  episodes over 180 days                277
+  median duration                       79 days
+  All present in paper/stats.json and interpolated. No number typed into prose.
+
+=== SUMMARY ===
+  checks run 24  passed 24  warnings 0  failed 0
+  MECHANICAL CHECKS PASS. The author's own verification is still required.
